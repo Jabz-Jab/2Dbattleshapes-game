@@ -16,8 +16,6 @@ pip install pygame
 python geometry_duel/main.py
 ```
 
-🕹️ Play the Game
-https://jabz07.itch.io/2d-battle-shapes
 
 
 ### How to run locally
@@ -26,3 +24,6 @@ git clone https://github.com/yourusername/2d-battle-shapes.git
 cd 2d-battle-shapes
 python main.py
 ```
+
+### Play the Game
+https://jabz07.itch.io/2d-battle-shapes
